@@ -1,4 +1,6 @@
-# 基于hoshinobot的猜头像插件~
+# 基于hoshinobot的原神猜头像插件~
+
+可以猜原神的各种内容！怪物什么的
 
 代码来自pcravatarguess，**非原创**  
 
